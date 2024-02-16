@@ -3,25 +3,25 @@
 ### 📊 Overview
 This project is our Capstone project for our Introduction to Programming Java course. It is an online banking system developed using Spring Boot, React JavaScript, and MySQL. The goal of this project is to provide users with a secure and user-friendly platform for managing their financial transactions. Once the project is completed, My plan is to transition it into Web3 / Blockchain technology to explore the potential of decentralized finance and enhance the security and transparency of the banking system.
 
-### Features
+### 🧊 Features
 * User Registration: Allows users to create an account and securely register their personal information.
 * Account Management: Enables users to manage their bank accounts, including creating new accounts, viewing balances, and making transactions.
 * Transaction History: Provides a detailed transaction history for each user, allowing them to track their financial activities.
 * Security Measures: Implements robust security measures, such as encryption and authentication, to ensure the safety of user data.
 
-### Technologies Used
+### 💻 Technologies Used
 * Spring Boot: A Java-based framework for building enterprise-level applications.
 * React JavaScript: A popular JavaScript library for building user interfaces.
 * MySQL: An open-source relational database management system.
 
-### Prerequisites
+### 🧊 Prerequisites
 Before running this project, ensure that you have the following installed:
 
 * Java Development Kit (JDK)
 * Node.js and npm (Node Package Manager)
 * MySQL database
 
-## Getting Started
+## 💻 Getting Started
 1. Clone the repository: `git clone` `https://github.com/Artificial-Ledger-Technology/alt-banking-system.git`
 2. Set up the database: Create a MySQL database and update the database configuration in the project's configuration files.
 3. Build and run the backend: Open the project in your preferred IDE, build the project, and start the Spring Boot application.
