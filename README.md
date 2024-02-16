@@ -33,7 +33,7 @@ Before running this project, ensure that you have the following installed:
 Contributions are welcome! If you find any issues or have suggestions for improvement, please feel free to submit a pull request or open an issue in the project repository.
 
 # License
-This project is licensed under the MIT License and Artificial Ledger Technology
+This project is licensed under the `MIT License` and `Artificial Ledger Technology`
 
 # Acknowledgements
 * Spring Boot
