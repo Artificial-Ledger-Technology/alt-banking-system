@@ -40,4 +40,4 @@ This project is licensed under the `MIT License` and `Artificial Ledger Technolo
 * React
 * MySQL
   
-Feel free to customize and add more sections to this README file based on the specific details and requirements of your alt-banking-system project.
+`Feel free to customize and add more sections to this README file based on the specific details and requirements of your alt-banking-system project.`
