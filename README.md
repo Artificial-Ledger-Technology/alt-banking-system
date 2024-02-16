@@ -1,7 +1,7 @@
 # Artificial Ledger Technology online banking system
 
 ### Overview
-This project is an online banking system developed using Spring Boot, React JavaScript, and MySQL. It aims to provide users with a secure and user-friendly platform for managing their financial transactions.
+This project is our Capstone project for our Introduction to Programming Java course. It is an online banking system developed using Spring Boot, React JavaScript, and MySQL. The goal of this project is to provide users with a secure and user-friendly platform for managing their financial transactions. Once the project is completed, My plan is to transition it into Web3 / Blockchain technology to explore the potential of decentralized finance and enhance the security and transparency of the banking system.
 
 ### Features
 * User Registration: Allows users to create an account and securely register their personal information.
