@@ -1,5 +1,11 @@
 # 💫 Artificial Ledger Technology online banking system
 
+<img src="https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_FINAL_EXAM/blob/master/images/image-2.png">  
+
+### TEAM Name: [Artificial Ledger Technology](https://github.com/Artificial-Ledger-Technology)  🇵🇭
+### Project: [Project Repository](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_FINAL_EXAM)       
+### Course Repo: [CCPRGG2L Intermediate Programming](https://github.com/flexycode/CCPRGG2L_INTERMEDIATE_PROGRAMMING)    
+
 ### 📊 Overview
 This project is our Capstone project for our Introduction to Programming Java course. It is an online banking system developed using Spring Boot, React JavaScript, and MySQL. The goal of this project is to provide users with a secure and user-friendly platform for managing their financial transactions. Once the project is completed, My plan is to transition it into Web3 / Blockchain technology to explore the potential of decentralized finance and enhance the security and transparency of the banking system.
 
